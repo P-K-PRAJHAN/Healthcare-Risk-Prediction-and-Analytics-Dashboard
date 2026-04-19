@@ -232,7 +232,7 @@ This project demonstrates how **Business Intelligence and Machine Learning** can
 
 ## 🎤 Author
 
-**PK**
+**PK PRAJHAN**
 
 ---
 
