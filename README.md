@@ -39,6 +39,15 @@ The system integrates:
 
 ---
 
+## 🚀 Technologies Used
+
+* **Power BI** → Data Visualization
+* **Python (Jupyter Notebook)** → Machine Learning
+* **MySQL / SQL** → Data Processing
+* **Excel** → Data Storage
+
+---
+
 ## 🧾 Dataset Description
 
 ### 1. stroke_risk_dataset.xlsx
@@ -208,15 +217,6 @@ IF([Risk %] > 60, "⚠ High Risk Patients", "Normal")
 * Symptoms like chest pain strongly influence risk
 * ML models effectively classify and predict risk
 * Clustering helps identify patient segments
-
----
-
-## 🚀 Technologies Used
-
-* **Power BI** → Data Visualization
-* **Python (Jupyter Notebook)** → Machine Learning
-* **MySQL / SQL** → Data Processing
-* **Excel** → Data Storage
 
 ---
 
